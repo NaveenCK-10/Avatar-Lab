@@ -37,8 +37,6 @@ Avatar Lab delivers avatars with:
 
 ---
 
-Here’s an updated and detailed **"Getting Started"** section for your README. It includes step-by-step instructions for setting up the full stack and AI models, creating isolated environments, installing dependencies, and running everything:
-
 ---
 
 ## 🚀 Getting Started
@@ -348,8 +346,6 @@ Once all components are running:
 
 ## 🔬 Models We Explored
 
-*(This section is good as is, lists alternatives considered. No changes needed here unless you want to elaborate on *why* the chosen ones were superior for your specific needs in more detail than the "Models Chosen" section.)*
-
 ### 🗣️ Speech Synthesis Models
 - [**Coqui TTS**](https://github.com/coqui-ai/TTS)
 - [**Zonos TTS**](https://github.com/Zyphra/Zonos)
@@ -375,7 +371,6 @@ After rigorous evaluation, we finalized the following for **Avatar Lab**:
 
 🎧 **Sample Audio Output:**
 [Listen to a E2 F5 TTS Sample (on GitHub Pages)](https://project-info182.github.io/Avatar-Lab/)
-*(Consider linking directly to an audio file: e.g. `your-repo/docs/audio/zonos_sample.wav`)*
 
 ### 🎥 Facial Animation: [LatentSync](https://github.com/bytedance/LatentSync)
 **Reasoning:** LatentSync demonstrated superior performance in generating highly realistic avatar animations with precise lip-sync accuracy and nuanced emotional expressions, crucial for our project's goals.
@@ -410,7 +405,7 @@ Avatar Lab is ideal for enhancing applications in:
     - ⚙️ Core backend API developed using Node.js & Express.js.
     - 🔗 Proof-of-concept integration of TTS and facial animation models with the backend.
 
-### 🚀 Current Focus & Next Steps
+### 🚀 Goals & Next Steps
 - [ ] **Full-Fledged Web Application:**
     - [ ✅ ] Develop a user-friendly interface for avatar generation (text input, audio upload, avatar selection).
     - [ ] Implement user accounts for saving projects and preferences.
